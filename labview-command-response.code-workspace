@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "labview_toggle_with_watchdog",
+			"path": "esp32-firmware/labview_toggle_with_watchdog"
+		}
+	],
+	"settings": {}
+}
