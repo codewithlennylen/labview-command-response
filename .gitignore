@@ -1,1 +1,4 @@
 .vscode/
+*.lvlps
+*.aliases
+labview/.labview_led_with_watchdog.UserState/
